@@ -1,9 +1,7 @@
 #include <stdio.h>
 /**
-*main - entry poit
-*return: always 0 (success)
-* Description: 'the program's description
-* @parameter: describe the parameter
+*main - Entry point
+*Return: always 0 (success)
 */
 int main(void)
 {
