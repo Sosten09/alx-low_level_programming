@@ -1,19 +1,14 @@
 #include <stdio.h>
 /**
   *main - Entry point
-  *Return: always 0 (success)
-  *Description:'program that prints the alphabet'
+  *Return: always 0
   */
 int main(void)
 {
-	char l;
+	char i;
 
-	for (l = 'a'; l <= 'z'; l++)
-		putchar(l);
-
+	for (i = 'a' ; i <= 'z' ; i++)
+		putchar(i);
 	putchar('\n');
 	return (0);
-
-
-
 }
